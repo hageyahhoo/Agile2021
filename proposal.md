@@ -1,9 +1,14 @@
 
 https://www.agilealliance.org/agile2021/submissions/submission-tips/
 
+
 # Title
-Technical Agile Coach
+Technical Agile Coaching Team
+⭐️　- Accelerating Product Development Teams with Technology and Agile -
+
+## 補足
 - Technical | Experience Report
+- 1000 daysや3yearsは、子育てを連想させるので避けよう
 
 
 
