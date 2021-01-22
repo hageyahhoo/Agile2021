@@ -3,28 +3,15 @@ https://www.agilealliance.org/agile2021/submissions/submission-tips/
 
 
 # Title
-Technical Agile Coaching Team:
-Vertically & Horizontally beyond technical & psychological barriers
-
-Facilitate Cleaning Your Code Without (Necessarily) Being a Techncial Coach
-Beyond User Stories:
-    Modern Software Requirements need a Visual Model of Representation
-
-
-https://www.agilealliance.org/resources/sessions/beyond-user-stories-modern-software-requirements-need-a-visual-model-of-representation/
-
-
-## 補足
+Technical Agile Coaches' Unit:
+One Way of Freeing Technical and Psychological Barriers from Your Product Development
 - Technical | Experience Report
-- シンプルなタイトルでOK
-- 1000 daysや3yearsは、子育てを連想させるので避けよう
 
 
 
 # Abstract
-- 技術的アジャイル推進
-    - 珍しい
-    - ピンとこないかも
+- 技術アジャイルコーチというもの自体が新鮮
+    - SETはこれを志向している
 - "Self-growing" Team
 - 前提
     - Just coaching works?
@@ -32,12 +19,26 @@ https://www.agilealliance.org/resources/sessions/beyond-user-stories-modern-soft
 - Microservices
 - Approaches
     - Karate for developer testing
-    - Kubernetes
+    - Kubernetes for replicating test environments and data
 - Lessons Learned
     - Need processes
+    - NVC
 
 
+⭐️
+Agile Coach is popular after 20 years of Agile Manifesto.
+However, almost of them tend to use process approach without technical one, right?
 
+On the other hand, developers tend not to believe persons who has skills and responsibility of technical aspects.
+
+For overcoming these barriers, we constructed Technical Agile Coaches' Unit.
+
+In this talk, I will do the following things:
+1)
+2)
+3)
+
+⭐️
 When introducing improvement activities to your team, like Test Automation, you will face challenges. Some members and/or teams may oppose your activities. You may find that no one uses tools or solutions you introduced. You may face a shortage of members who have enough skills and knowledge.
 
 As an **SET (Software Engineer in Test)**, **I faced a lot of challenges and failures**. No clear goals. Dissension among developers, testers, and managers. Negative feedback to my/our solutions... **However, I could overcome them and finally achieved something great!**
@@ -117,3 +118,12 @@ Highlights include:
 # Workshops
 - "Visualize It! with Agile Metrics" at Agile Japan 2017
 - "Learning Session in Practice" at DevOps Days Taipei 2019
+
+
+
+
+# Misc./Memo
+- Headline style
+    https://headlinecapitalization.com/
+- 図を多用し、ビジュアルに意図を伝えよう
+    https://www.agilealliance.org/resources/sessions/beyond-user-stories-modern-software-requirements-need-a-visual-model-of-representation/
