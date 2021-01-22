@@ -3,11 +3,20 @@ https://www.agilealliance.org/agile2021/submissions/submission-tips/
 
 
 # Title
-Technical Agile Coaching Team
-⭐️　- Accelerating Product Development Teams with Technology and Agile -
+Technical Agile Coaching Team:
+Vertically & Horizontally beyond technical & psychological barriers
+
+Facilitate Cleaning Your Code Without (Necessarily) Being a Techncial Coach
+Beyond User Stories:
+    Modern Software Requirements need a Visual Model of Representation
+
+
+https://www.agilealliance.org/resources/sessions/beyond-user-stories-modern-software-requirements-need-a-visual-model-of-representation/
+
 
 ## 補足
 - Technical | Experience Report
+- シンプルなタイトルでOK
 - 1000 daysや3yearsは、子育てを連想させるので避けよう
 
 
@@ -17,6 +26,16 @@ Technical Agile Coaching Team
     - 珍しい
     - ピンとこないかも
 - "Self-growing" Team
+- 前提
+    - Just coaching works?
+        - Not worked to me!
+- Microservices
+- Approaches
+    - Karate for developer testing
+    - Kubernetes
+- Lessons Learned
+    - Need processes
+
 
 
 When introducing improvement activities to your team, like Test Automation, you will face challenges. Some members and/or teams may oppose your activities. You may find that no one uses tools or solutions you introduced. You may face a shortage of members who have enough skills and knowledge.
