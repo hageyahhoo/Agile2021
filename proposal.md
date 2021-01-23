@@ -10,39 +10,47 @@ One Way of Freeing Technical and Psychological Barriers from Your Product Develo
 
 
 # Abstract
+⭐️ Pain pointを刺激する
+⭐️ 技術的なアプローチの方法が分からなくて困っていませんか？ ⭐️
+それでは技術の話をしよう
+
+
+🔵🔵🔵
 20 years after the Agile Manifesto was written, the title of Agile Coach has been becoming common in the software industry. Most of them tend to use approaches and practices which are focusing on the human side: process, communication, facilitation, and so on.
-
-⭕️
-except technical practices.
-
-technical practices (like CI/CD, test automation, devops, monitoring, etc.)
+🔵🔵🔵
 
 
-⭐️⭐️⭐️
-However, almost of them tend to use process approach without technical one, right?
-- 一方で、その役割は、Process中心？になりがちではないか？
-    - 技術視点が欲しい
-    - Just coaching works?
-        - Not worked to me!
-
-- 技術的に複雑なプロダクトを開発されているところでは、
-    - 技術力のなさから適切なコーチングができない
-    - 技術力のなさからチームメンバーの信頼を得られない
-- 技術的アプローチからプロセスを改善できるケースもあるが、それをメインでやっている人は少ない
+⭕️ 技術的視点の必要性を簡潔に説明する
+- 技術を教える/教えられるコーチは、少ない印象がある
+    - technical practices (like CI/CD, test automation, devops, monitoring, etc.)
+    - スキル不足から、技術面を避けるコーチが少なからずいる
+- 技術面を避けるコーチは、以下の点で問題になることがある
+    - 技術面に改善すべきポイントがある場合に、適切なコーチングができない
+    - 技術力のなさから、チームメンバーの信頼を得られない、または対立構造に陥る
+        - developers tend not to believe persons who has skills and responsibility of technical aspects.
 
 
+⭕️ プロセスと技術の両方の視点が必要
+- both process and technology are required for Agile Coaching
+- both supports each other
 
-- プロセスと技術の両方の視点が必要
-On the other hand, developers tend not to believe persons who has skills and responsibility of technical aspects.
+- そこで、技術的観点からアジャイルコーチをやるチームを作った
+For overcoming these barriers, we constructed Technical Agile Coaches' Unit.
+
+- 実際にこのアプローチで、信頼を得たり、human sideだけではできなかった改善ができている
+
 
 
 ⭕️⭕️⭕️
 When introducing improvement activities to your team, like Test Automation, you will face challenges. Some members and/or teams may oppose your activities. You may find that no one uses tools or solutions you introduced. You may face a shortage of members who have enough skills and knowledge.
+⭕️⭕️⭕️
+As an **SET (Software Engineer in Test)**, **I faced a lot of challenges and failures**. No clear goals. Dissension among developers, testers, and managers. Negative feedback to my/our solutions... **However, I could overcome them and finally achieved something great!**
+
+**We can change difficulties into something special with proper approaches!**
+⭕️⭕️⭕️
 
 
 
-- そこで、技術的観点からアジャイルコーチをやるチームを作った
-For overcoming these barriers, we constructed Technical Agile Coaches' Unit.
 
 
 
@@ -70,10 +78,6 @@ In this talk, I will do the following things:
 
 
 ⭕️⭕️⭕️⭕️⭕️
-As an **SET (Software Engineer in Test)**, **I faced a lot of challenges and failures**. No clear goals. Dissension among developers, testers, and managers. Negative feedback to my/our solutions... **However, I could overcome them and finally achieved something great!**
-
-**We can change difficulties into something special with proper approaches!**
-
 In this talk, I will tell you the following practical ideas and solutions which **relate to testing** I found through my experience as SET **from Scratch**:
 
 1) Importance and how to get support and understanding from decision-makers and colleagues
