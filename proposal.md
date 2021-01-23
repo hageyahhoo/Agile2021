@@ -10,12 +10,56 @@ One Way of Freeing Technical and Psychological Barriers from Your Product Develo
 
 
 # Abstract
-- 技術アジャイルコーチというもの自体が新鮮
-    - SETはこれを志向している
-- "Self-growing" Team
-- 前提
+20 years after the Agile Manifesto was written, the title of Agile Coach has been becoming common in the software industry. Most of them tend to use approaches and practices which are focusing on the human side: process, communication, facilitation, and so on.
+
+⭕️
+except technical practices.
+
+technical practices (like CI/CD, test automation, devops, monitoring, etc.)
+
+
+⭐️⭐️⭐️
+However, almost of them tend to use process approach without technical one, right?
+- 一方で、その役割は、Process中心？になりがちではないか？
+    - 技術視点が欲しい
     - Just coaching works?
         - Not worked to me!
+
+- 技術的に複雑なプロダクトを開発されているところでは、
+    - 技術力のなさから適切なコーチングができない
+    - 技術力のなさからチームメンバーの信頼を得られない
+- 技術的アプローチからプロセスを改善できるケースもあるが、それをメインでやっている人は少ない
+
+
+
+- プロセスと技術の両方の視点が必要
+On the other hand, developers tend not to believe persons who has skills and responsibility of technical aspects.
+
+
+⭕️⭕️⭕️
+When introducing improvement activities to your team, like Test Automation, you will face challenges. Some members and/or teams may oppose your activities. You may find that no one uses tools or solutions you introduced. You may face a shortage of members who have enough skills and knowledge.
+
+
+
+- そこで、技術的観点からアジャイルコーチをやるチームを作った
+For overcoming these barriers, we constructed Technical Agile Coaches' Unit.
+
+
+
+⭕️⭕️⭕️
+In this talk, I will do the following things:
+1)
+2)
+3)
+
+- 技術アジャイルコーチというもの自体が新鮮
+    - SETはこれを志向している
+- 技術の必要性
+    - 技術的に複雑なプロダクトを開発されているところでは、
+        - 技術力のなさから適切なコーチングができない
+        - 技術力のなさからチームメンバーの信頼を得られない
+    - 技術的アプローチからプロセスを改善できるケースもあるが、それをメインでやっている人は少ない
+- "Self-growing" Team
 - Microservices
 - Approaches
     - Karate for developer testing
@@ -25,22 +69,7 @@ One Way of Freeing Technical and Psychological Barriers from Your Product Develo
     - NVC
 
 
-⭐️
-Agile Coach is popular after 20 years of Agile Manifesto.
-However, almost of them tend to use process approach without technical one, right?
-
-On the other hand, developers tend not to believe persons who has skills and responsibility of technical aspects.
-
-For overcoming these barriers, we constructed Technical Agile Coaches' Unit.
-
-In this talk, I will do the following things:
-1)
-2)
-3)
-
-⭐️
-When introducing improvement activities to your team, like Test Automation, you will face challenges. Some members and/or teams may oppose your activities. You may find that no one uses tools or solutions you introduced. You may face a shortage of members who have enough skills and knowledge.
-
+⭕️⭕️⭕️⭕️⭕️
 As an **SET (Software Engineer in Test)**, **I faced a lot of challenges and failures**. No clear goals. Dissension among developers, testers, and managers. Negative feedback to my/our solutions... **However, I could overcome them and finally achieved something great!**
 
 **We can change difficulties into something special with proper approaches!**
