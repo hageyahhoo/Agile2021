@@ -5,6 +5,7 @@ https://www.agilealliance.org/agile2021/submissions/submission-tips/
 # Title
 Technical Agile Coaches' Unit:
 One Way of Freeing Technical and Psychological Barriers from Your Product Development
+⭐️ アジャイルコーチと、技術チームの双方の不安解消策の方が良いやも
 - Technical | Experience Report
 
 
@@ -12,6 +13,8 @@ One Way of Freeing Technical and Psychological Barriers from Your Product Develo
 # Abstract
 ⭐️ Pain pointを刺激する
 ⭐️ 技術的なアプローチの方法が分からなくて困っていませんか？ ⭐️
+
+技術は怖いですか？そんなことないですよ。
 それでは技術の話をしよう
 
 
@@ -98,6 +101,7 @@ I hope these ideas will help innovate your testing activities!
 
 
 # Information for Program Team
+⭐️
 I'm planning to switch my talks and group discussions among attendees iteratively to make attendees consider their own ideas deeply.
 
 I hope to provide pens, sticky notes, and papers for supporting group discussions.
@@ -122,17 +126,18 @@ Here is my rough plan.
 
 
 # Learning Outcomes
-- Identify the importance and ways **to obtain consent from decision-makers, developers, testers, and other stakeholders** to proceed with test-related improvement activities.
+🔵
+- IDENTIFY fears to (existing/emerging) technologies as an Agile Coach.
+- IDENTIFY technical issues that developers want to ask Agile Coaches for support.
+- ARTICULATE ways to enlist cooperation from developers as the Agile Coach.
+- ARTICULATE ways to improve technical skills as the Agile Coach **effectively and extremely**.
 
-- Identify the importance of **working with product development teams together** to discover and solve blockers and problems for going forward improvements.
 
-- Identify ideas to nurture members, teams, and organizations for a series of activities mentioned above smoothly and quickly.
-
-- `(Optional)` **Link Test Automation, CI/CD, DevOps, and Monitoring** to tame the complexity of Microservices and reduce their outages.
 
 
 
 # Presentation History
+⭐️
 I presented at **Agile 2014** titled **"Technology-Driven/Development"** in the Experience Report track.
 
 Since Agile 2014, I have presented several sessions at conferences about Agile Metrics and utilizing technical excellence for "successful" Agile adoption.
@@ -151,6 +156,7 @@ Highlights include:
 # Workshops
 - "Visualize It! with Agile Metrics" at Agile Japan 2017
 - "Learning Session in Practice" at DevOps Days Taipei 2019
+
 
 
 
