@@ -126,7 +126,6 @@ Here is my rough plan.
 
 
 # Learning Outcomes
-🔵
 - IDENTIFY fears to (existing/emerging) technologies as an Agile Coach.
 - IDENTIFY technical issues that developers want to ask Agile Coaches for support.
 - ARTICULATE ways to enlist cooperation from developers as the Agile Coach.
@@ -134,13 +133,12 @@ Here is my rough plan.
 
 
 
-
-
 # Presentation History
-⭐️
-I presented at **Agile 2014** titled **"Technology-Driven/Development"** in the Experience Report track.
+I talked at **Agile2014** titled **"Technology-Driven/Development"** in the Experience Report track.
+Additionally, I was planned to talk at **Agile2020** titled **"Everything from Scratch: A journey as Software Engineer in Test to improve 'Testing'"** in the Development & Testing Practices track.
 
-Since Agile 2014, I have presented several sessions at conferences about Agile Metrics and utilizing technical excellence for "successful" Agile adoption.
+Since Agile2014, I have been presenting several sessions at global conferences
+about Test Automation, DevOps, Agile Metrics, Product Management, Cloud-native technologies, and so on.
 Additionally, I have held several workshops about Agile Metrics and Learning Session.
 
 Highlights include:
@@ -152,12 +150,12 @@ Highlights include:
 - "The Truth of Improvements in LINE Corporation" at DevOps Days Tokyo 2018
 - "Build Self-Organized Team through Test Automation with Karate" at DevOps Days Taipei 2019
 - "SET Team as A Special Task Force: A Practical Guide for Agile Adoption by Combining Technical Excellence and Experiments" at Regional Scrum Gathering Tokyo 2020
+- "Make testing easier technically and psychologically with Kubernetes" at TOP100 Summit 2020
+- "Product Management Tips for In-house Tools" at Regional Scrum Gathering Tokyo 2021
 
 # Workshops
 - "Visualize It! with Agile Metrics" at Agile Japan 2017
 - "Learning Session in Practice" at DevOps Days Taipei 2019
-
-
 
 
 
