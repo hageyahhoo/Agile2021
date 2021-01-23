@@ -71,13 +71,6 @@ In this talk, I will do the following things:
         - 技術力のなさからチームメンバーの信頼を得られない
     - 技術的アプローチからプロセスを改善できるケースもあるが、それをメインでやっている人は少ない
 - "Self-growing" Team
-- Microservices
-- Approaches
-    - Karate for developer testing
-    - Kubernetes for replicating test environments and data
-- Lessons Learned
-    - Need processes
-    - NVC
 
 
 ⭕️⭕️⭕️⭕️⭕️
@@ -101,27 +94,27 @@ I hope these ideas will help innovate your testing activities!
 
 
 # Information for Program Team
-⭐️
-I'm planning to switch my talks and group discussions among attendees iteratively to make attendees consider their own ideas deeply.
+In order to make my recorded talk more effectively for attendees, I'm planning to shape my talk as follows:
+- At first, I'm going to say the conclusion of this session clearly to make attendees more focused on the session.
+- I'm going to use lots of graphical images to convey ideas smoothly.
 
-I hope to provide pens, sticky notes, and papers for supporting group discussions.
+Additionally, I'm going to share my presentation document with attendees before the session.
 
-Here is my rough plan.
+Here is my rough outlines and timings.
 
-1. Introduction to this session (5 min)
-2. Importance and how to get support and understanding from decision-makers and colleagues
-    - (Discussion) What blocks/blocked Test Automation in your organization (5 min)
-    - Talk (15 min)
-3. Experiencing hardships with product development teams together is a key to proceed with activities
-    - (Discussion) How to persuade developers who stopped writing test scripts (5 min)
-    - Talk (15 min)
-4. "Sebas Report": Our innovative solution example to tame the complexity of Microservices and reduce their outages
-    - (Discussion) What is the difficulty of testing Microservices (5 min)
-    - Talk (15 min)
-5. Conclusion (5 min)
-6. Q&A (5 min)
-
-
+1. Introduction to this session (3 min)
+2. Technical issues in Agile Coaches and developers (8 min)
+    - I'm going to explain the following points for a later talk:
+        - Fears to (existing/emerging) technologies as an Agile Coach
+        - Technical issues that developers want to ask Agile Coaches for support
+3. Examples of solving technical issues with developers (8 min)
+    - I'm going to explain ways to enlist cooperation from developers as the Agile Coach based on concrete examples in our team:
+        - Combine API Tests and observability mechanism to reduce MTTR
+        - Solve complicated test issues step by step
+        - Utilize Kubernetes for replicating test environments and data
+4. Ways to improve technical skills effectively (8 min)
+    - I'm going to explain that working with developers is very effective for Agile Coaches to improve technical skills with concrete examples in our team.
+5. Conclusion (3 min)
 
 
 
