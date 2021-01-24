@@ -64,11 +64,9 @@ Here are my rough outlines and timings.
 
 
 # Presentation History
-I talked at **Agile2014** titled **"Technology-Driven/Development"** in the Experience Report track.
-Additionally, I was planned to talk at **Agile2020** titled **"Everything from Scratch: A journey as Software Engineer in Test to improve 'Testing'"** in the Development & Testing Practices track.
+I talked at **Agile2014** titled **"Technology-Driven Development"** in the Experience Report track. Additionally, I was planned to talk at **Agile2020** titled **"Everything from Scratch: A journey as Software Engineer in Test to improve 'Testing'"** in the Development & Testing Practices track.
 
-Since Agile2014, I have been presenting several sessions at global conferences about Test Automation, DevOps, Agile Metrics, Product Management, Cloud-native technologies, and so on.
-Additionally, I have held several workshops about Agile Metrics and Learning Session.
+Since Agile2014, I have been presenting several sessions at global conferences about Test Automation, DevOps, Agile Metrics, Product Management, Cloud-native technologies, and so on. Additionally, I have held several workshops about Agile Metrics and Learning Session.
 
 Highlights include:
 
