@@ -4,42 +4,35 @@ https://www.agilealliance.org/agile2021/submissions/submission-tips/
 
 # Title
 Technical Agile Coach: Practical guides to overcome fears to technologies and solve developers' technical issues as an Agile Coach
-- Technical | Experience Report
+- Technical
 
 
 
 # Abstract
-⭐️ 技術的なアプローチの方法が分からなくて困っていませんか？ ⭐️
+Have you ever felt fears about technologies when you behave as an Agile Coach?
+Don't you have regrets that you could not have contributed to developers effectively due to insufficient technical skills?
 
-技術は怖いですか？そんなことないですよ。
-それでは技術の話をしよう
+**If your answer is YES, why not solving the issue together?**
 
-
-🔵🔵🔵
-20 years after the Agile Manifesto was written, the title of Agile Coach has been becoming common in the software industry. Most of them tend to use approaches and practices which are focusing on the human side: process, communication, facilitation, and so on.
-🔵🔵🔵
+20 years after the Agile Manifesto was written, the title of Agile Coach has been becoming common in the software industry. Most of them tend to use approaches and practices which are focusing on the human side: process, communication, facilitation, and so on. It may not be due to insufficient technical skills. It may not. However, developers (or product development team members) tend not to believe persons who speak little about technical topics and don't contribute to technical issues. It is a misery to both Agile Coaches and developers.
 
 
-⭕️ 技術を教える/教えられるコーチは、少ない印象がある
-
-- 技術に対する恐怖心 and/or 技術力のなさから、チームメンバーの信頼を得られない、または対立構造に陥る
-    - developers tend not to believe persons who has skills and responsibility of technical aspects.
-    - technical practices (like CI/CD, test automation, devops, monitoring, etc.)
-- 一方でdevelopersも、技術力はあっても、全ての問題を解決できるわけではない。特に技術的にプロセス改善可能な箇所があっても気付きにくい。その点でAgile Coachの力が必要な箇所はある。
+⭐️ developer側の思い
+On the other hand, developers have issues. Not only process ones but also technical ones.
+Especially, technical issues are hard for developers to detect. Agile Coaches can detect these issues and contribute to developers.
 
 
+⭐️ 案外語られること少なくない？
+However, 
 上記を克服できることで解決できることは多いが、あまりそれらの方法論が語られることは少ない。
 
+
+⭐️ 解決してみた＆アイデアがある！
 そこで私たちは、技術的観点からアジャイルコーチをやるチームを作った。
 For overcoming these barriers, we constructed Technical Agile Coaches' Unit.
 - 実際にこのアプローチで、信頼を得たり、human sideだけではできなかった改善ができている
 
 また、高速に技術スキルを学習し伸ばす方法を見つけた！
-
-
-⭕️⭕️⭕️
-When introducing improvement activities to your team, like Test Automation, you will face challenges. Some members and/or teams may oppose your activities. You may find that no one uses tools or solutions you introduced. You may face a shortage of members who have enough skills and knowledge.
-
 
 ⭕️⭕️⭕️
 As an **SET (Software Engineer in Test)**, **I faced a lot of challenges and failures**. No clear goals. Dissension among developers, testers, and managers. Negative feedback to my/our solutions... **However, I could overcome them and finally achieved something great!**
@@ -53,10 +46,27 @@ In this talk, I will tell you the following practical ideas and solutions which 
 1) Importance and how to get support and understanding from decision-makers and colleagues
 They are critical to proceed with test-related improvement activities. I will explain useful techniques; **"Product Discovery"** to discover their real concerns, and **"Giving impacts"** to attract them.
 
-1) Identifying fears to (existing/emerging) technologies as an Agile Coach.
-2) Identifying technical issues that developers want to ask Agile Coaches for 
+1) Clarifying fears
+    - fears to (existing/emerging) technologies as an Agile Coach.
+    - technical issues that developers want to ask Agile Coaches
 3) ARTICULATE ways to enlist cooperation from developers as the Agile Coach.
+    - Product Discovery for solving technical issues
+    - Combining automated tests with developers' monitoring features
 4) ARTICULATE ways to improve technical skills as the Agile Coach **effectively and extremely**.
+    - Experimenting new tools (e.g. Kubernetes) with developers
+
+
+
+🔵🔵🔵
+20 years after the Agile Manifesto was written, the title of Agile Coach has been becoming common in the software industry. Most of them tend to use approaches and practices which are focusing on the human side: process, communication, facilitation, and so on.
+🔵🔵🔵
+
+
+
+
+
+
+
 
 I hope these ideas will help you overcome fears and technical issues with developers.
 
