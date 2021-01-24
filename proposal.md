@@ -20,27 +20,30 @@ On the other hand, developers tend to have troubles, not only process ones but a
 
 For overcoming the above issues, we constructed Technical Agile Coaches' Unit in our company. In our team, we could enlist cooperation from developers. Additionally, we could solve a wide variety of developers' technical issues. Moreover, we found ways to improve technical skills very effectively through these activities.
 
+In this talk, I will tell you the following practical ideas to improve technical skills and solve developers' technical issues as an Agile Coach based on experiments in our teams:
+
+1) Importance to identify "fears" which relates to technologies
+Identifying the root cause is the primary action for problem-solving. I will explain "fears" which relate to technologies that both Agile Coaches and developers tend to feel based on concrete examples.
+
+2) Examples to enlist cooperation from developers as an Agile Coach
+Developers tend to have more technical skills than Agile Coaches. On the other hand, Agile Coaches can contribute to solving technical issues from their traits. These contributions will be the key to enlist cooperation from developers. I will share concrete examples of solving technical issues as an Agile Coach as follows:
+- Utilizing "Product Discovery" for identifying and solving technical issues
+- Combining automated tests with developers' monitoring features to reduce MTTR
+- Utilizing Kubernetes for replicating test environments and data
 
 
 ⭐️⭐️⭐️
-In this talk, I will tell you the following practical ideas and solutions which **relate to testing** I found through my experience as SET **from Scratch**:
+3) Ways to improve technical skills effectively as an Agile Coach
+ARTICULATE ways to improve technical skills as an Agile Coach **effectively and extremely**.
+I'm going to explain that working with developers is very effective for Agile Coaches to improve technical skills with concrete examples in our team.
 
-1) Importance and how to get support and understanding from decision-makers and colleagues
-They are critical to proceed with test-related improvement activities. I will explain useful techniques; **"Product Discovery"** to discover their real concerns, and **"Giving impacts"** to attract them.
+- Experimenting new tools (e.g. Kubernetes) with developers
 
-⭐️
-1) Clarifying fears
-    - fears to (existing/emerging) technologies as an Agile Coach.
-    - technical issues that developers want to ask Agile Coaches
-3) ARTICULATE ways to enlist cooperation from developers as the Agile Coach.
-    - Product Discovery for solving technical issues
-    - Combining automated tests with developers' monitoring features
-4) ARTICULATE ways to improve technical skills as the Agile Coach **effectively and extremely**.
-    - Experimenting new tools (e.g. Kubernetes) with developers
 
 ⭐️
-I hope these ideas will help you overcome fears and technical issues with developers.
-Enjoy your work without fears!
+I hope these ideas will help you enjoy your work more without fears!
+
+
 
 
 
@@ -51,19 +54,19 @@ In order to make my recorded talk more effectively for attendees, I'm planning t
 
 Additionally, I'm going to share my presentation document with attendees before the session.
 
-Here is my rough outlines and timings.
+Here are my rough outlines and timings.
 
 1. Introduction to this session (3 min)
-2. Technical issues in Agile Coaches and developers (8 min)
-    - I'm going to explain the following points for a later talk:
+2. Identify technical issues (or fears) in both Agile Coaches and developers (8 min)
+    - I'm going to explain the following points as a starting point:
         - Fears to (existing/emerging) technologies as an Agile Coach
         - Technical issues that developers want to ask Agile Coaches for support
-3. Examples of solving technical issues with developers (8 min)
-    - I'm going to explain ways to enlist cooperation from developers as the Agile Coach based on concrete examples in our team:
+3. Share examples of solving technical issues as an Agile Coach (8 min)
+    - I'm going to explain ways to enlist cooperation from developers as an Agile Coach based on concrete examples in our team:
         - Combine API Tests and observability mechanism to reduce MTTR
         - Solve complicated test issues step by step
         - Utilize Kubernetes for replicating test environments and data
-4. Ways to improve technical skills effectively (8 min)
+4. Ways to improve technical skills effectively as an Agile Coach (8 min)
     - I'm going to explain that working with developers is very effective for Agile Coaches to improve technical skills with concrete examples in our team.
 5. Conclusion (3 min)
 
@@ -72,8 +75,8 @@ Here is my rough outlines and timings.
 # Learning Outcomes
 - IDENTIFY fears to (existing/emerging) technologies as an Agile Coach.
 - IDENTIFY technical issues that developers want to ask Agile Coaches for support.
-- ARTICULATE ways to enlist cooperation from developers as the Agile Coach.
-- ARTICULATE ways to improve technical skills as the Agile Coach **effectively and extremely**.
+- ARTICULATE ways to enlist cooperation from developers as an Agile Coach.
+- ARTICULATE ways to improve technical skills as an Agile Coach **effectively and extremely**.
 
 
 
@@ -81,8 +84,7 @@ Here is my rough outlines and timings.
 I talked at **Agile2014** titled **"Technology-Driven/Development"** in the Experience Report track.
 Additionally, I was planned to talk at **Agile2020** titled **"Everything from Scratch: A journey as Software Engineer in Test to improve 'Testing'"** in the Development & Testing Practices track.
 
-Since Agile2014, I have been presenting several sessions at global conferences
-about Test Automation, DevOps, Agile Metrics, Product Management, Cloud-native technologies, and so on.
+Since Agile2014, I have been presenting several sessions at global conferences about Test Automation, DevOps, Agile Metrics, Product Management, Cloud-native technologies, and so on.
 Additionally, I have held several workshops about Agile Metrics and Learning Session.
 
 Highlights include:
