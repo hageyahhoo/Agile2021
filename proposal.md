@@ -16,36 +16,19 @@ Don't you have regrets that you could not have contributed to developers effecti
 
 20 years after the Agile Manifesto was written, the title of Agile Coach has been becoming common in the software industry. Most of them tend to use approaches and practices which are focusing on the human side: process, communication, facilitation, and so on. It may not be due to insufficient technical skills. It may not. However, developers (or product development team members) tend not to believe persons who speak little about technical topics and don't contribute to technical issues. It is a misery to both Agile Coaches and developers.
 
+On the other hand, developers tend to have troubles, not only process ones but also technical ones. Especially, technical issues are hard only for developers to detect and solve. Developers tend to consider mainly or only from their own technical skills. Agile Coaches can contribute to developers at this point.
 
-⭐️ developer側の思い
-On the other hand, developers have issues. Not only process ones but also technical ones.
-Especially, technical issues are hard for developers to detect. Agile Coaches can detect these issues and contribute to developers.
-
-
-⭐️ 案外語られること少なくない？
-However, 
-上記を克服できることで解決できることは多いが、あまりそれらの方法論が語られることは少ない。
+For overcoming the above issues, we constructed Technical Agile Coaches' Unit in our company. In our team, we could enlist cooperation from developers. Additionally, we could solve a wide variety of developers' technical issues. Moreover, we found ways to improve technical skills very effectively through these activities.
 
 
-⭐️ 解決してみた＆アイデアがある！
-そこで私たちは、技術的観点からアジャイルコーチをやるチームを作った。
-For overcoming these barriers, we constructed Technical Agile Coaches' Unit.
-- 実際にこのアプローチで、信頼を得たり、human sideだけではできなかった改善ができている
 
-また、高速に技術スキルを学習し伸ばす方法を見つけた！
-
-⭕️⭕️⭕️
-As an **SET (Software Engineer in Test)**, **I faced a lot of challenges and failures**. No clear goals. Dissension among developers, testers, and managers. Negative feedback to my/our solutions... **However, I could overcome them and finally achieved something great!**
-
-**We can change difficulties into something special with proper approaches!**
-
-
-⭕️⭕️⭕️
+⭐️⭐️⭐️
 In this talk, I will tell you the following practical ideas and solutions which **relate to testing** I found through my experience as SET **from Scratch**:
 
 1) Importance and how to get support and understanding from decision-makers and colleagues
 They are critical to proceed with test-related improvement activities. I will explain useful techniques; **"Product Discovery"** to discover their real concerns, and **"Giving impacts"** to attract them.
 
+⭐️
 1) Clarifying fears
     - fears to (existing/emerging) technologies as an Agile Coach.
     - technical issues that developers want to ask Agile Coaches
@@ -55,22 +38,9 @@ They are critical to proceed with test-related improvement activities. I will ex
 4) ARTICULATE ways to improve technical skills as the Agile Coach **effectively and extremely**.
     - Experimenting new tools (e.g. Kubernetes) with developers
 
-
-
-🔵🔵🔵
-20 years after the Agile Manifesto was written, the title of Agile Coach has been becoming common in the software industry. Most of them tend to use approaches and practices which are focusing on the human side: process, communication, facilitation, and so on.
-🔵🔵🔵
-
-
-
-
-
-
-
-
+⭐️
 I hope these ideas will help you overcome fears and technical issues with developers.
-
-
+Enjoy your work without fears!
 
 
 
