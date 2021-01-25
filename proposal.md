@@ -1,11 +1,32 @@
 
-https://www.agilealliance.org/agile2021/submissions/submission-tips/
+https://submissions.agilealliance.org/agile2021/sessions/13511
 
 
 # Title
 Technical Agile Coach: Practical guides to overcome fears to technologies and solve developers' technical issues as an Agile Coach
-- Technical
 
+-> ⭐️ Practical guides to overcome fears to technologies as an Agile Coach
+    - 文字数制限回避（90文字以内）
+
+
+# Track
+Technical
+
+
+# Session Type
+Talk
+
+
+# Audience Level
+Practicing
+
+
+# What time zone will you be presenting from?
+Tokyo
+
+
+# Keywords
+⭐️
 
 
 # Abstract
@@ -62,6 +83,10 @@ Here are my rough outlines and timings.
 - ARTICULATE ways to improve technical skills as an Agile Coach **effectively and extremely**.
 
 
+# Prerequisite Knowledge
+⭐️
+
+
 
 # Presentation History
 I talked at **Agile2014** titled **"Technology-Driven Development"** in the Experience Report track. Additionally, I was planned to talk at **Agile2020** titled **"Everything from Scratch: A journey as Software Engineer in Test to improve 'Testing'"** in the Development & Testing Practices track.
@@ -83,6 +108,8 @@ Highlights include:
 # Workshops
 - "Visualize It! with Agile Metrics" at Agile Japan 2017
 - "Learning Session in Practice" at DevOps Days Taipei 2019
+
+
 
 
 
