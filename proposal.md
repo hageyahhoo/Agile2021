@@ -6,16 +6,6 @@ https://submissions.agilealliance.org/agile2021/sessions/13511
 Practical Guides to Overcome Fears to Technologies as an Agile Coach
 
 
-
-## ⭐️ TODO ⭐️
-- Keywords
-- 以下は必須ではないが、考えてはみよう
-    - Prerequisite Knowledge
-    - Presentation Sample
-    - Attach a PDF
-
-
-
 # Track
 Technical
 
@@ -108,6 +98,16 @@ Highlights include:
 # Workshops
 - "Visualize It! with Agile Metrics" at Agile Japan 2017
 - "Learning Session in Practice" at DevOps Days Taipei 2019
+
+
+# Keywords
+- agile_coach
+- fear_to_technology
+- test_automation
+- observability
+- product_discovery
+- DevOps
+- Kubernetes
 
 
 
