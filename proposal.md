@@ -3,13 +3,11 @@ https://submissions.agilealliance.org/agile2021/sessions/13511
 
 
 # Title
-Technical Agile Coach: Practical guides to overcome fears to technologies and solve developers' technical issues as an Agile Coach
+Practical Guides to Overcome Fears to Technologies as an Agile Coach
 
 
 
 ## ⭐️ TODO ⭐️
-- タイトルの文字数制限の回避が必要（90文字以内）
-    -> Practical guides to overcome fears to technologies as an Agile Coach
 - Keywords
 - 以下は必須ではないが、考えてはみよう
     - Prerequisite Knowledge
