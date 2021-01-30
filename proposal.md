@@ -36,7 +36,6 @@ On the other hand, developers tend to have troubles, not only process ones but a
 For overcoming the above issues, we constructed Technical Agile Coaches' Unit in our company. In our team, we could enlist cooperation from developers. Additionally, we could solve a wide variety of developers' technical issues. Moreover, we found ways to improve technical skills very effectively through these activities.
 
 In this talk, I will tell you the following practical ideas to improve technical skills and solve developers' technical issues as an Agile Coach based on experiments in our teams:
-⭐️ 内容を再度チェックする
 1) Importance to identify "fears" which relates to technologies
 2) Examples to enlist cooperation from developers as an Agile Coach
 3) Ways to improve technical skills effectively as an Agile Coach
@@ -55,35 +54,18 @@ Additionally, I'm going to share my presentation document with attendees before 
 Here are my rough outlines and timings.
 
 1. Introduction to this session (3 min)
+    - ⭐️参加者と、恐怖を共有・共感するところから開始する
 2. Identify technical issues (or fears) in both Agile Coaches and developers (8 min)
-
-⭐️
-Identifying the root cause is the primary action for problem-solving. I will explain "fears" which relate to technologies that both Agile Coaches and developers tend to feel based on concrete examples.
-⭐️
-
-
+    - Identifying the root cause is the primary action for problem-solving. I will explain "fears" which relate to technologies that both Agile Coaches and developers tend to feel based on concrete examples.
 3. Share examples of solving technical issues as an Agile Coach (8 min)
-
-⭐️
-Developers tend to have more technical skills than Agile Coaches. On the other hand, Agile Coaches can contribute to solving technical issues from their traits. These contributions will be the key to enlist cooperation from developers. I will share concrete examples of solving technical issues as an Agile Coach as follows:
-- Utilizing "Product Discovery" for solving complicated test issues step by step
-- Combining automated API tests with developers' observability mechanism to reduce MTTR
-- Utilizing Kubernetes for replicating test environments and data
-⭐️
-
-
+    - Developers tend to have more technical skills than Agile Coaches. On the other hand, Agile Coaches can contribute to solving technical issues from their traits. These contributions will be the key to enlist cooperation from developers. I will share concrete examples of solving technical issues as an Agile Coach as follows:
+        - Utilizing "Product Discovery" for solving complicated test issues step by step
+        - Combining automated API tests with developers' observability mechanism to reduce MTTR
+        - Utilizing Kubernetes for replicating test environments and data
 4. Ways to improve technical skills effectively as an Agile Coach (8 min)
-
-⭐️
-Agile Coaches tend to be busy. Therefore, improving technical skills effectively and quickly is very critical. Through lots of experiments in our team, we found that working with developers is very effective for Agile Coaches to improve technical skills. I'm going to explain why working with developers is very effective to improve technical skills with concrete examples.
-⭐️
-
-
+    - Agile Coaches tend to be busy. Therefore, improving technical skills effectively and quickly is very critical. Through lots of experiments in our team, we found that working with developers is very effective for Agile Coaches to improve technical skills. I'm going to explain why working with developers is very effective to improve technical skills with concrete examples.
 5. Conclusion (3 min)
-
-
-⭐️ Add detail subsection (if necessary)
-
+    - ⭐️ 参加者に恐怖を克服する勇気と、そのための具体的な考え方・行動方法を得てもらう
 
 
 
