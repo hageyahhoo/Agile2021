@@ -54,7 +54,8 @@ Additionally, I'm going to share my presentation document with attendees before 
 Here are my rough outlines and timings.
 
 1. Introduction to this session (3 min)
-    - ⭐️参加者と、恐怖を共有・共感するところから開始する
+    - I will start by empathizing fully with attendees who feel fear of technologies.
+    - Additionally, I will motivate attendees that it is possible to overcome these fears.
 2. Identify technical issues (or fears) in both Agile Coaches and developers (8 min)
     - Identifying the root cause is the primary action for problem-solving. I will explain "fears" which relate to technologies that both Agile Coaches and developers tend to feel based on concrete examples.
 3. Share examples of solving technical issues as an Agile Coach (8 min)
@@ -65,7 +66,9 @@ Here are my rough outlines and timings.
 4. Ways to improve technical skills effectively as an Agile Coach (8 min)
     - Agile Coaches tend to be busy. Therefore, improving technical skills effectively and quickly is very critical. Through lots of experiments in our team, we found that working with developers is very effective for Agile Coaches to improve technical skills. I'm going to explain why working with developers is very effective to improve technical skills with concrete examples.
 5. Conclusion (3 min)
-    - ⭐️ 参加者に恐怖を克服する勇気と、そのための具体的な考え方・行動方法を得てもらう
+    - I will remind attendees that it is possible to overcome these fears.
+    - Additionally, I will recommend attendees share their fears with me at the Q&A session.
+    - Moreover, I will recommend attendees share their stories of improvements next year.
 
 
 
