@@ -81,25 +81,25 @@ Here are my rough outlines and timings.
 
 
 # Presentation History
-I talked at **Agile2014** titled **"Technology-Driven Development"** in the Experience Report track. Additionally, I was planned to talk at **Agile2020** titled **"Everything from Scratch: A journey as Software Engineer in Test to improve 'Testing'"** in the Development & Testing Practices track.
+I talked at **Agile2014** titled **["Technology-Driven Development"](https://www.slideshare.net/ssuser968fab/technology-drivendevelopment-forslideshare-38323907)** in the Experience Report track. Additionally, I was planned to talk at **Agile2020** titled **["Everything from Scratch: A journey as Software Engineer in Test to improve 'Testing'"](https://speakerdeck.com/line_developers/everything-from-scratch-a-journey-as-software-engineer-in-test-to-improve-testing)** in the Development & Testing Practices track.
 
 Since Agile2014, I have been presenting several sessions at global conferences about Test Automation, DevOps, Agile Metrics, Product Management, Cloud-native technologies, and so on. Additionally, I have held several workshops about Agile Metrics and Learning Session.
 
 Highlights include:
 
 # Presentations
-- "Conquer CI Server!" at Agile Japan 2015
-- "Shake up the Culture with Automation!" at DevOps Summit 2016 in Chinese Taipei as a keynote speaker
-- "A Practical Guide for Agile Metrics" at Regional Scrum Gathering Tokyo 2017
-- "The Truth of Improvements in LINE Corporation" at DevOps Days Tokyo 2018
-- "Build Self-Organized Team through Test Automation with Karate" at DevOps Days Taipei 2019
-- "SET Team as A Special Task Force: A Practical Guide for Agile Adoption by Combining Technical Excellence and Experiments" at Regional Scrum Gathering Tokyo 2020
-- "Make testing easier technically and psychologically with Kubernetes" at TOP100 Summit 2020
-- "Product Management Tips for In-house Tools" at Regional Scrum Gathering Tokyo 2021
+- ["Product Management Tips for In-house Tools"](https://speakerdeck.com/line_developers/product-management-tips-for-in-house-tools) at Regional Scrum Gathering Tokyo 2021
+- ["Make testing easier technically and psychologically with Kubernetes"](https://speakerdeck.com/line_developers/make-testing-easier-technically-and-psychologically-with-kubernetes) at TOP100 Summit 2020
+- ["SET Team as A Special Task Force: A Practical Guide for Agile Adoption by Combining Technical Excellence and Experiments"](https://speakerdeck.com/line_developers/set-team-as-a-special-task-force) at Regional Scrum Gathering Tokyo 2020
+- ["Build Self-Organized Team through Test Automation with Karate"](https://speakerdeck.com/line_developers/build-self-organized-team-through-test-automation-with-karate) at DevOps Days Taipei 2019
+- ["The Truth of Improvements in LINE Corporation"](https://www.slideshare.net/linecorp/line-94842564) at DevOps Days Tokyo 2018
+- ["A Practical Guide for Agile Metrics"](https://www.slideshare.net/ssuser968fab/ss-70489058/1) at Regional Scrum Gathering Tokyo 2017
+- ["Shake up the Culture with Automation!"](https://www.slideshare.net/ssuser968fab/shake-up-the-culture-with-automation) at DevOps Summit 2016 in Chinese Taipei as a keynote speaker
+- ["Conquer CI Server!"](https://www.slideshare.net/rakutentech/conquer-ci-server-reestablishment-of-order-and-nurture-of-the-solid-organization-by-project-metrics-and-automation-techniques) at Agile Japan 2015
 
 # Workshops
-- "Visualize It! with Agile Metrics" at Agile Japan 2017
-- "Learning Session in Practice" at DevOps Days Taipei 2019
+- ["Learning Session in Practice"](https://speakerdeck.com/line_developers/learning-session-in-practice) at DevOps Days Taipei 2019
+- ["Visualize It! with Agile Metrics"](https://www.slideshare.net/ssuser968fab/no-no-55603839) at Agile Japan 2017
 
 
 # Keywords
