@@ -29,11 +29,7 @@ Don't you have regrets that you could not have contributed to developers effecti
 
 **If your answer is YES, why not solving the issue together?**
 
-20 years after the Agile Manifesto was written, the title of Agile Coach has been becoming common in the software industry. Most of them tend to use approaches and practices which are focusing on the human side: process, communication, facilitation, and so on. It may not be due to insufficient technical skills. It may not. However, developers (or product development team members) tend not to believe persons who speak little about technical topics and don't contribute to technical issues. It is a misery to both Agile Coaches and developers.
-
-On the other hand, developers tend to have troubles, not only process ones but also technical ones. Especially, technical issues are hard only for developers to detect and solve. Developers tend to consider mainly or only from their own technical skills. Agile Coaches can contribute to developers at this point.
-
-For overcoming the above issues, we constructed Technical Agile Coaches' Unit in our company. In our team, we could enlist cooperation from developers. Additionally, we could solve a wide variety of developers' technical issues. Moreover, we found ways to improve technical skills very effectively through these activities.
+Agile Coaches who have technical skills tend to build credibility with developers. However, most of them have a limited time to learn technical skills. On the other hand, developers want to collaborate with Agile Coaches to detect and solve not only process issues but also technical ones. To connect both Agile Coaches and developers "technically", we constructed Technical Agile Coaches' Unit in our company. Through lots of experiments and experience, we found a slew of ideas to improve the above issues.
 
 In this talk, I will tell you the following practical ideas to improve technical skills and solve developers' technical issues as an Agile Coach based on experiments in our teams:
 1) Importance to identify "fears" which relates to technologies
@@ -69,6 +65,14 @@ Here are my rough outlines and timings.
     - I will remind attendees that it is possible to overcome these fears.
     - Additionally, I will recommend attendees share their fears with me at the Q&A session.
     - Moreover, I will recommend attendees share their stories of improvements next year.
+
+
+## Background of This Proposal
+In recent years, the title of Agile Coach has been becoming common in the software industry. Most of them tend to use approaches and practices which are focusing on the human side: process, communication, facilitation, and so on. Some of them have a limited time to learn technical skills. However, developers (or product development team members) tend to believe persons who have technical skills and contribute to technical issues. It would be better to fill this gap between Agile Coaches and developers.
+
+On the other hand, developers tend to have troubles, not only process ones but also technical ones. Especially, technical issues are hard only for developers to detect and solve. Developers tend to consider mainly or only from their own technical skills. Agile Coaches can contribute to developers at this point.
+
+For overcoming the above issues, we constructed Technical Agile Coaches' Unit in our company. In our team, we could enlist cooperation from developers. Additionally, we could solve a wide variety of developers' technical issues. Moreover, we found ways to improve technical skills very effectively through these activities.
 
 
 
