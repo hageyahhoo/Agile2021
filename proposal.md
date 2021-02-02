@@ -29,7 +29,7 @@ Don't you have regrets that you could not have contributed to developers effecti
 
 **If your answer is YES, why not solving the issue together?**
 
-In recent years, the title of Agile Coach has been becoming common in the software industry. Most of them tend to use approaches and practices which are focusing on the human side: process, communication, facilitation, and so on. Some of them have a limited time to learn technical skills.
+In recent years, the title of Agile Coach has been becoming common in the software industry. Most of them tend to use approaches and practices which are focusing on the human side: process, communication, facilitation, and so on. Some of them have a limited time to learn technical skills. However, developers (or product development team members) tend to believe persons who have technical skills and contribute to technical issues. It would be better to fill this gap between Agile Coaches and developers.
 
 On the other hand, developers tend to have troubles, not only process ones but also technical ones. Especially, technical issues are hard only for developers to detect and solve. Developers tend to consider mainly or only from their own technical skills. Agile Coaches can contribute to developers at this point.
 
