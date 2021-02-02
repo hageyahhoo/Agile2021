@@ -24,15 +24,25 @@ Tokyo
 
 
 # Abstract
-⭐️ セッションの詳細な情報を書きすぎているかも。それらを省き、かつ短くしよう。
+⭐️ セッション選びをしやすくするよう、短くしよう
+
 Have you ever felt fears about technologies when you behave as an Agile Coach?
 Don't you have regrets that you could not have contributed to developers effectively due to insufficient technical skills?
 
 **If your answer is YES, why not solving the issue together?**
 
 20 years after the Agile Manifesto was written, the title of Agile Coach has been becoming common in the software industry. Most of them tend to use approaches and practices which are focusing on the human side: process, communication, facilitation, and so on. It may not be due to insufficient technical skills. It may not. However, developers (or product development team members) tend not to believe persons who speak little about technical topics and don't contribute to technical issues. It is a misery to both Agile Coaches and developers.
-⭐️ "it may not" が曖昧かも
-⭐️ "tend not to believe persons" が非常にnegativeに読める。softにしよう
+
+
+⭐️
+1) "20 years after" has a couple places where it is a little confusing.
+
+⭐️
+2) In this section, "Most of them tend to use approaches and practices which are focusing on the human side: process, communication, facilitation, and so on. It may not be due to insufficient technical skills. It may not.", did you mean to 'it may not' in both sentences, or is there one extra use of 'not' in there?
+
+⭐️
+3) And in the next sentence, saying "tend not to believe persons" feels pretty negative. Is there a softer way to put this?
+
 
 On the other hand, developers tend to have troubles, not only process ones but also technical ones. Especially, technical issues are hard only for developers to detect and solve. Developers tend to consider mainly or only from their own technical skills. Agile Coaches can contribute to developers at this point.
 
