@@ -29,14 +29,16 @@ Don't you have regrets that you could not have contributed to developers effecti
 
 **If your answer is YES, why not solve the issue together?**
 
-Agile Coaches who have technical skills tend to build credibility with developers. However, most of them have a limited time to learn technical skills. On the other hand, developers want to collaborate with Agile Coaches to detect and solve not only process issues but also technical ones. To connect both Agile Coaches and developers "technically", we constructed a Technical Agile Coaches' Unit in our company. Through lots of experiments and experience, we found a slew of ideas to improve the above issues.
+Agile Coaches who have technical skills tend to build credibility with developers. However, most of them have a limited time to learn technical skills. On the other hand, developers want to collaborate with Agile Coaches to detect and solve not only process issues but also technical ones.
 
-In this talk, I will tell you the following practical ideas to improve technical skills and solve developers' technical issues as an Agile Coach based on experiments in our teams:
+To connect both Agile Coaches and developers "technically", we constructed a Technical Agile Coaches' Unit in our company. `Through lots of experiments and experience, we found a slew of ideas to improve the above issues.`
+
+In this talk, I will tell you the following practical ideas to improve technical skills and solve developers' technical issues as an Agile Coach `based on experiments in our teams`:
 1) Importance to identify "fears" which relate to technologies
 2) Examples to enlist cooperation from developers as an Agile Coach
 3) Ways to improve technical skills effectively as an Agile Coach
 
-I hope these ideas will help you and related developers enjoy their work more without fears!
+Additionally, `I would like to hear your fears, troubles, and anxieties at the Q&A session.` I hope these ideas will help you and related developers enjoy their work more without fears!
 
 
 
