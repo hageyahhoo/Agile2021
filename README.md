@@ -1,2 +1,5 @@
+
 # Agile2021
--> https://www.agilealliance.org/agile2021/submissions/
+このリポジトリには、Agile2021へ公募を出す際に使用したファイルを保管しています。
+<br>
+グローバルカンファレンスへ公募を出すことを検討されている方への参考になれば幸いです。
